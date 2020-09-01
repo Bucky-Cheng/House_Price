@@ -2,7 +2,7 @@
 
 Kaggle competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
-the code of version 3, score: 0.11.
+the code of version 3, score: 0.00408, leaderboard: Top 1%
 
 Data analysis, features engineering, ridge, lasso, elasticnet, SVR, xgboost, lightgbm, model stack and GridSearchCV optimization.
 
